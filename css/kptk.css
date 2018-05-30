@@ -1,0 +1,115 @@
+
+.btn_pd{
+	
+	margin: 5px;
+
+}
+.btn-biru{
+	/*background:#1E90FF;*/
+	color:white;
+	margin-top:10px;
+	border-top:0;
+	border-left:1px;
+	border-right:1px;
+	/*border-bottom:5px solid #2A80B9;*/
+	text-decoration:none;
+	font-family:sans-serif;
+	font-size:11pt;
+}
+.ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.gambar_logo{
+	margin-top:3px; 
+	 width: 15%;
+    height: auto;
+    border:1px solid #000;
+    text-align: center;
+}
+.container_banner {
+	max-height: 80%;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;}
+.footer1{
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+.input_pesan {
+  background: rgba(255,255,255,0.1);
+  border: none;
+  position: relative;
+  display: block;
+  outline: none;
+  width: 400px;
+  height: 30px;
+  top: 10px;
+  margin: 0 auto;
+  padding: 10px;
+  color: white;
+  -webkit-box-shadow: 0 2px 10px 1px rgba(0,0,0,0.2);
+  box-shadow: 0 2px 10px 1px rgba(0,0,0,0.2);
+}
+
+
+.afooter:link {
+    color: orange;
+}
+
+/* visited link */
+.afooter:visited {
+    color: white;
+}
+
+/* mouse over link */
+.afooter:hover {
+    color: orange;
+}
+
+/* selected link */
+.afooter:active {
+    color: blue;
+}
+
+.judul_artikel:link {
+    color: orange;
+}
+.judul_artikel:visited {
+    color: white;
+}
+
+/* mouse over link */
+.judul_artikel:hover {
+    color: orange;
+}
+
+/* selected link */
+.judul_artikel:active {
+    color: blue;
+}
+
+.prgram_a:link {
+    color: #00008B;
+}
+
+/* visited link */
+.prgram_a:visited {
+    color: black;
+}
+
+/* mouse over link */
+.prgram_a:hover {
+    color: #00008B;
+}
+
+/* selected link */
+.prgram_a:active {
+    color: blue;
+}
+
